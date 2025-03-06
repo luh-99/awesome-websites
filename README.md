@@ -1,5 +1,12 @@
 # awesome-websites
-(NOT OFFICIAL) Useful or fun websites that make the internet a hell of a lot easier.
+----
+**(NOT OFFICIAL AWESOME LIST)** 
+
+I have listed useful, or fun websites that make the internet a hell of a lot easier and entertaining.
+
+***If you find this repository useful, feel free to leave a star!***
+
+***By leaving a star, GitHub recommends this repository to more people. It also helps out me, and the repository a lot!***
 
 | Website | Description |
 | --- | --- |
