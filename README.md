@@ -3,7 +3,7 @@
 
 | Website | Description |
 | --- | --- |
-| [Internet Archive)](https://archive.org/) | A lot of different archives. You want lost media? They have it. You want old appstore links? They got it. |
+| [Internet Archive](https://archive.org/) | A lot of different archives. You want lost media? They have it. You want old appstore links? They got it. |
 | [Wayback Machine](https://web.archive.org/) | Browse archived versions of websites. |
 | [VideoBolt](https://videobolt.net/simple-video-tools/add-audio) | Add audio to any video |
 | [Cloud Convert](https://cloudconvert.com/) | Convert any picture to any other filetype |
@@ -12,11 +12,11 @@
 | [Flash Museum](https://flashmuseum.org/) | Play all of your childhood flash games |
 | [RetroFlix](https://retroflix.org) | Watch Classic movies, Old Cartoons, and Forgotten TV! |
 | [12ft.io](https://12ft.io) & [Archive.is](https://Archive.is) | Website to bypass most paywalls in news sites, etc. |
-| [AlternativeTo.net](https://AlternativeTo.net) | Find a free, open-source or paid alternative to an existing program easily |
-| [CallMyLostPhone](https://callmylostphone.com/) | Lose your phone? Use this website to find it! (You can also prank your friends >:) |
+| [AlternativeTo.net](https://AlternativeTo.net) | Find a free, open-source, or paid alternative to an existing program easily |
+| [CallMyLostPhone](https://callmylostphone.com/) | Lose your phone? Use this website to call it! *You can also prank your friends >:)* |
 | [Music-Map](https://www.music-map.com/) | Music-Map is a music finder that helps you find similar bands and artists to the ones you love. |
-| [remove.bg](https://remove.bg) | Remove background from any image! 
-| [Logical Increments](https://logicalincrements.com) | This website shows you the best computer parts in your price-range |
+| [remove.bg](https://remove.bg) | Remove the background from any image. Fast, free, and easy! 
+| [Logical Increments](https://logicalincrements.com) | This website shows you the best computer parts in your price range |
 | [Reverse Dictionary](https://www.onelook.com/reverse-dictionary.shtml) | A dictionary for those moments when you can describe the thing but can't remember what it's called |
 | [Wolfram Alpha](https://www.wolframalpha.com/) | Computational knowledge engine for various queries. |
 | [Unsplash](https://www.wolframalpha.com/) | High-quality, free-to-use photos. |
