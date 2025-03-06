@@ -19,6 +19,7 @@ I have listed useful, or fun websites that make the internet a hell of a lot eas
 | [VideoBolt](https://videobolt.net/simple-video-tools/add-audio) | Add audio to any video |
 | [Cloud Convert](https://cloudconvert.com/) | Convert any picture to any other filetype |
 | [Chrunos](https://chrunos.com/category/shortcuts/) | Useful iOS shortcuts |
+| [ShareShortcut](https://shareshortcuts.com/) | Alternative to Chrunos. Shortcuts made by the community |
 | [The Useless Web](https://theuselessweb.com/) | Fun website if you are bored |
 | [Flash Museum](https://flashmuseum.org/) | Play all of your childhood flash games |
 | [RetroFlix](https://retroflix.org) | Watch Classic movies, Old Cartoons, and Forgotten TV! |
