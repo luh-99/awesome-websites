@@ -1,6 +1,6 @@
 # awesome-websites
 ----
-**(NOT OFFICIAL AWESOME LIST)** 
+## **(NOT THE OFFICIAL AWESOME LIST)** 
 
 I have listed useful, or fun websites that make the internet a hell of a lot easier and entertaining.
 
