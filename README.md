@@ -16,6 +16,8 @@ I have listed useful, or fun websites that make the internet a hell of a lot eas
 | --- | --- |
 | [Internet Archive](https://archive.org/) | A lot of different archives. You want lost media? They have it. You want old appstore links? They got it. |
 | [Wayback Machine](https://web.archive.org/) | Browse archived versions of websites. |
+| [gallery-dl](https://github.com/mikf/gallery-dl) | A command-line tool that lets you download images from almost every website. All while the images are high quality guarenteed! |
+| [Aranja](https://emoji.aranja.com) | Choose any iOS emoji and download it as a png! |
 | [VideoBolt](https://videobolt.net/simple-video-tools/add-audio) | Add audio to any video |
 | [Cloud Convert](https://cloudconvert.com/) | Convert any picture to any other filetype |
 | [Chrunos](https://chrunos.com/category/shortcuts/) | Useful iOS shortcuts |
