@@ -16,6 +16,7 @@ I have listed useful, or fun websites that make the internet a hell of a lot eas
 | --- | --- |
 | [Internet Archive](https://archive.org/) | A lot of different archives. You want lost media? They have it. You want old appstore links? They got it. |
 | [Wayback Machine](https://web.archive.org/) | Browse archived versions of websites. |
+| [Have I Been Pwned](https://haveibeenpwned.com) | Check if your emails or passwords have been exposed from data breaches, malware, and more. |
 | [gallery-dl](https://github.com/mikf/gallery-dl) | A command-line tool that lets you download images from almost every website. All while the images are high quality guarenteed! |
 | [Discord Avatar Maker](https://discord-avatar-maker.app) | A discord pfp maker with tons of customization options! |
 | [Aranja](https://emoji.aranja.com) | Choose any iOS emoji and download it as a png! |
@@ -65,7 +66,6 @@ I have listed useful, or fun websites that make the internet a hell of a lot eas
 | [Radiooooo](http://radiooooo.com/) | Explore music from different times and places. |
 | [Calmly Writer](https://www.calmlywriter.com/) | Distraction-free writing platform online. |
 | [Geoguessr](https://www.geoguessr.com/) | Guess locations based on Google Street View images. |
-| [Have I Been Pwned](https://haveibeenpwned.com) | Check if your emails or passwords have been exposed from data breaches, malware, and more. |
 | [Pixlr](https://pixlr.com/) | Online photo editing tool similar to Photoshop. |
 | [CopyPasteCharacter](https://www.copypastecharacter.com/) | Copy special characters for use. |
 | [Rhymer](http://www.rhymer.com/) | Find rhyming words and syllable counts. |
