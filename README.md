@@ -71,6 +71,10 @@ I have listed useful, or fun websites that make the internet a hell of a lot eas
 | [Rhymer](http://www.rhymer.com/) | Find rhyming words and syllable counts. |
 | [Privacy.com](https://privacy.com/) | Generate virtual payment cards for online shopping. |
 | [This Person Does Not Exist](https://thispersondoesnotexist.com/) | AI-generated faces of nonexistent people. |
-
-
-
+| [Moonsec V3 Deobfuscator](https://websim.com/@pugpug/lua-deobfuscator-tool) | Online tool for deobfuscating MoonSec V3 Lua |
+| [Tineye](https://tineye.com/) | Do you want to know if an image is shopped, cropped or otherwise altered? Using these two tools you've got a good chance of finding out. Tineye is reverse image searcher that is 100% Free |
+| [TwoSeven](https://twoseven.xyz) | Allows you to watch and sync netflix, prime video, downloaded videos, streaming from browser, youtube with your friends while opting to be on voice/video call with them for FREE and NO ADS. |
+| [Project Gutenburg](https://www.gutenberg.org/) | Taking all the books that are copyright free and making digital copies available. | 
+| [BlitzOrTung](https://www.blitzortung.org/) | This one lets you see where lightning strikes in real time! Can be reassuring to see the lightning get further and further away, it's also pretty neat in general!
+| [Terms of Service, Didn't Read](https://tosdr.org/) | summarizes terms of service and rates them for privacy.
+| [everynoise.com](https://everynoise.com/) | This website contains every obscure sub genre of music imaginable. You can find some great music you’ve never heard of there.
