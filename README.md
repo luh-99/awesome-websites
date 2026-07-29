@@ -14,12 +14,12 @@ I have listed useful, or fun websites that make the internet a hell of a lot eas
 
 | Website | Description |
 | --- | --- |
-| [Internet Archive](https://archive.org/) | A lot of different archives. You want lost media? They have it. You want old appstore links? They got it. |
+| [Internet Archive](https://archive.org/) | A lot of different archives. You want lost media? They have it. You want old app store links? They got it. |
 | [Wayback Machine](https://web.archive.org/) | Browse archived versions of websites. |
 | [Have I Been Pwned](https://haveibeenpwned.com) | Check if your emails or passwords have been exposed from data breaches, malware, and more. |
-| [gallery-dl](https://github.com/mikf/gallery-dl) | A command-line tool that lets you download images from almost every website. All while the images are high quality guarenteed! |
-| [Discord Avatar Maker](https://discord-avatar-maker.app) | A discord pfp maker with tons of customization options! |
-| [Aranja](https://emoji.aranja.com) | Choose any iOS emoji and download it as a png! |
+| [gallery-dl](https://github.com/mikf/gallery-dl) | A command-line tool that lets you download images from almost every website. All while the images are high quality guaranteed! |
+| [Discord Avatar Maker](https://discord-avatar-maker.app) | A Discord pfp maker with tons of customization options! |
+| [Aranja](https://emoji.aranja.com) | Choose any iOS emoji and download it as a PNG! |
 | [VideoBolt](https://videobolt.net/simple-video-tools/add-audio) | Add audio to any video |
 | [Cloud Convert](https://cloudconvert.com/) | Convert any picture to any other filetype |
 | [Chrunos](https://chrunos.com/category/shortcuts/) | Useful iOS shortcuts |
@@ -72,9 +72,11 @@ I have listed useful, or fun websites that make the internet a hell of a lot eas
 | [Privacy.com](https://privacy.com/) | Generate virtual payment cards for online shopping. |
 | [This Person Does Not Exist](https://thispersondoesnotexist.com/) | AI-generated faces of nonexistent people. |
 | [Moonsec V3 Deobfuscator](https://websim.com/@pugpug/lua-deobfuscator-tool) | Online tool for deobfuscating MoonSec V3 Lua |
-| [Tineye](https://tineye.com/) | Do you want to know if an image is shopped, cropped or otherwise altered? Using these two tools you've got a good chance of finding out. Tineye is reverse image searcher that is 100% Free |
-| [TwoSeven](https://twoseven.xyz) | Allows you to watch and sync netflix, prime video, downloaded videos, streaming from browser, youtube with your friends while opting to be on voice/video call with them for FREE and NO ADS. |
-| [Project Gutenburg](https://www.gutenberg.org/) | Taking all the books that are copyright free and making digital copies available. | 
-| [BlitzOrTung](https://www.blitzortung.org/) | This one lets you see where lightning strikes in real time! Can be reassuring to see the lightning get further and further away, it's also pretty neat in general!
+| [Tineye](https://tineye.com/) | Do you want to know if an image is shopped, cropped, or otherwise altered? Using these two tools, you've got a good chance of finding out. Tineye is reverse image searcher that is 100% Free |
+| [TwoSeven](https://twoseven.xyz) | Allows you to watch and sync Netflix, Prime Video, downloaded videos, streaming from browser, YouTube with your friends while opting to be on voice/video call with them for FREE and NO ADS. |
+| [Project Gutenburg](https://www.gutenberg.org/) | Taking all the books that are copyright-free and making digital copies available. | 
+| [BlitzOrTung](https://www.blitzortung.org/) | This one lets you see where lightning strikes in real time! Can be reassuring to see the lightning get further and further away; it's also pretty neat in general!
 | [Terms of Service, Didn't Read](https://tosdr.org/) | summarizes terms of service and rates them for privacy.
-| [everynoise.com](https://everynoise.com/) | This website contains every obscure sub genre of music imaginable. You can find some great music you’ve never heard of there.
+| [everynoise.com](https://everynoise.com/) | This website contains every obscure subgenre of music imaginable. You can find some great music you’ve never heard of there.
+| [VS Code Web](https://vscode.dev/) | Visual Studio Code in your browser!
+| [LearnPython.org](https://www.learnpython.org/) | Learn different programming languages like Python, Java, HTML, Go, C, C++, JavaScript, TypeScript, PHP, Shell, and more! (I would recommend using an AdBlocker for this website.)
