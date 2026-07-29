@@ -80,3 +80,4 @@ I have listed useful, or fun websites that make the internet a hell of a lot eas
 | [everynoise.com](https://everynoise.com/) | This website contains every obscure subgenre of music imaginable. You can find some great music you’ve never heard of there.
 | [VS Code Web](https://vscode.dev/) | Visual Studio Code in your browser!
 | [LearnPython.org](https://www.learnpython.org/) | Learn different programming languages like Python, Java, HTML, Go, C, C++, JavaScript, TypeScript, PHP, Shell, and more! (I would recommend using an AdBlocker for this website.)
+| [JasperBernaers](https://jasperbernaers.com/notepad/) | Web-based text editing website similar to Notepad++ (Ad-Free)
