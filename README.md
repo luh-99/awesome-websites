@@ -21,6 +21,7 @@ I have listed useful, or fun websites that make the internet a hell of a lot eas
 | [Discord Avatar Maker](https://discord-avatar-maker.app) | A Discord pfp maker with tons of customization options! |
 | [Aranja](https://emoji.aranja.com) | Choose any iOS emoji and download it as a PNG! |
 | [VideoBolt](https://videobolt.net/simple-video-tools/add-audio) | Add audio to any video |
+| [QuietTake](https://noiseremover.site/) | Free browser-local speech-noise cleanup with original/cleaned playback and WAV export; no signup or audio upload, up to 50 MB and five minutes per file. |
 | [Cloud Convert](https://cloudconvert.com/) | Convert any picture to any other filetype |
 | [Chrunos](https://chrunos.com/category/shortcuts/) | Useful iOS shortcuts |
 | [ShareShortcut](https://shareshortcuts.com/) | Alternative to Chrunos. Shortcuts made by the community |
