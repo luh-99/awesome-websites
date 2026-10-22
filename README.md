@@ -64,7 +64,6 @@ I have listed useful, or fun websites that make the internet a hell of a lot eas
 | [Ptable](https://ptable.com/) | Interactive periodic table with detailed information. |
 | [OldVersion](https://www.oldversion.com/) | Download older versions of software. |
 | [Mailinator](https://www.mailinator.com/) | Disposable email addresses for temporary use. |
-| [Online Lists Maker](https://onlinelistsmaker.com/) | Free online list maker, create and share lists instantly with no signup. |
 | [Radiooooo](http://radiooooo.com/) | Explore music from different times and places. |
 | [Calmly Writer](https://www.calmlywriter.com/) | Distraction-free writing platform online. |
 | [Geoguessr](https://www.geoguessr.com/) | Guess locations based on Google Street View images. |
