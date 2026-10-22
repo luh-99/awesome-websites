@@ -82,5 +82,6 @@ I have listed useful, or fun websites that make the internet a hell of a lot eas
 | [VS Code Web](https://vscode.dev/) | Visual Studio Code in your browser!
 | [LearnPython.org](https://www.learnpython.org/) | Learn different programming languages like Python, Java, HTML, Go, C, C++, JavaScript, TypeScript, PHP, Shell, and more! (I would recommend using an AdBlocker for this website.)
 | [JasperBernaers](https://jasperbernaers.com/notepad/) | Web-based text editing website similar to Notepad++ (Ad-Free)
+| [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) | Estimate US roof replacement cost ranges by roof size, material, location, and tear-off choice. |
 | [Online Lists Maker](https://onlinelistsmaker.com/) | Free online list maker, create and share lists instantly with no signup. |
 | [StudyArena](https://studyarena.com) | Compare three answers to a study question for free, then vote to uncover which AI models wrote them. |
