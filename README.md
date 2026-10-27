@@ -85,3 +85,4 @@ I have listed useful, or fun websites that make the internet a hell of a lot eas
 | [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) | Estimate US roof replacement cost ranges by roof size, material, location, and tear-off choice. |
 | [Online Lists Maker](https://onlinelistsmaker.com/) | Free online list maker, create and share lists instantly with no signup. |
 | [StudyArena](https://studyarena.com) | Compare three answers to a study question for free, then vote to uncover which AI models wrote them. |
+| [The Audio Stuff Tools](https://theaudiostuff.com/tools/) | Free browser audio tools: tone generator, speaker and headphone test, ABX blind test, EQ ear training and room acoustics calculators. No signup, and audio files stay on your device. |
