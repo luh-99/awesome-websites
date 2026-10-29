@@ -86,3 +86,4 @@ I have listed useful, or fun websites that make the internet a hell of a lot eas
 | [Online Lists Maker](https://onlinelistsmaker.com/) | Free online list maker, create and share lists instantly with no signup. |
 | [StudyArena](https://studyarena.com) | Compare three answers to a study question for free, then vote to uncover which AI models wrote them. |
 | [The Audio Stuff Tools](https://theaudiostuff.com/tools/) | Free browser audio tools: tone generator, speaker and headphone test, ABX blind test, EQ ear training and room acoustics calculators. No signup, and audio files stay on your device. |
+| [Name Awesome](https://nameawesome.com/) | Look up any U.S. baby name: meaning, origin, and its popularity every year since 1880. Free to use. |
