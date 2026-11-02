@@ -19,6 +19,7 @@ I have listed useful, or fun websites that make the internet a hell of a lot eas
 | [Have I Been Pwned](https://haveibeenpwned.com) | Check if your emails or passwords have been exposed from data breaches, malware, and more. |
 | [gallery-dl](https://github.com/mikf/gallery-dl) | A command-line tool that lets you download images from almost every website. All while the images are high quality guaranteed! |
 | [Discord Avatar Maker](https://discord-avatar-maker.app) | A Discord pfp maker with tons of customization options! |
+| [Naiwa Hub](https://naiwahub.com/) | Search Naiwa reaction images and complete animations by Chinese or English captions, mood, and character; preview and download without an account. |
 | [Aranja](https://emoji.aranja.com) | Choose any iOS emoji and download it as a PNG! |
 | [VideoBolt](https://videobolt.net/simple-video-tools/add-audio) | Add audio to any video |
 | [QuietTake](https://noiseremover.site/) | Free browser-local speech-noise cleanup with original/cleaned playback and WAV export; no signup or audio upload, up to 50 MB and five minutes per file. |
