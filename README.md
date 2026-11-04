@@ -84,6 +84,7 @@ I have listed useful, or fun websites that make the internet a hell of a lot eas
 | [JasperBernaers](https://jasperbernaers.com/notepad/) | Web-based text editing website similar to Notepad++ (Ad-Free)
 | [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) | Estimate US roof replacement cost ranges by roof size, material, location, and tear-off choice. |
 | [Online Lists Maker](https://onlinelistsmaker.com/) | Free online list maker, create and share lists instantly with no signup. |
+| [Bucketlist.nl Netherlands checklist (Dutch)](https://bucketlist.nl/bucketlist-nederland/checklist) | Free, searchable experience checklist with browser-local selections and printing; linked activity bookings may have their own prices. |
 | [StudyArena](https://studyarena.com) | Compare three answers to a study question for free, then vote to uncover which AI models wrote them. |
 | [The Audio Stuff Tools](https://theaudiostuff.com/tools/) | Free browser audio tools: tone generator, speaker and headphone test, ABX blind test, EQ ear training and room acoustics calculators. No signup, and audio files stay on your device. |
 | [APPLORE PNG to SVG](https://applore.app/png-to-svg) | Turn a PNG logo or icon into a full-color SVG in your browser. Free trace, no upload or signup. |
