@@ -6,7 +6,7 @@ Awesome Websites
 ----
 ## **(NOT THE OFFICIAL AWESOME LIST)** 
 
-I have listed useful, or fun websites that make the internet a hell of a lot easier and entertaining.
+A list of useful or fun websites that make the internet a lot easier, improve quality of life, and are entertaining.
 
 ***If you find this repository useful, feel free to leave a star!***
 
