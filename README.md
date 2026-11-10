@@ -90,3 +90,4 @@ I have listed useful, or fun websites that make the internet a hell of a lot eas
 | [The Audio Stuff Tools](https://theaudiostuff.com/tools/) | Free browser audio tools: tone generator, speaker and headphone test, ABX blind test, EQ ear training and room acoustics calculators. No signup, and audio files stay on your device. |
 | [APPLORE PNG to SVG](https://applore.app/png-to-svg) | Turn a PNG logo or icon into a full-color SVG in your browser. Free trace, no upload or signup. |
 | [Name Awesome](https://nameawesome.com/) | Look up any U.S. baby name: meaning, origin, and its popularity every year since 1880. Free to use. |
+| [AzerothSurvivors.app](https://azerothsurvivors.app/build-calculator/) | Free fan-made build planner for Azeroth Survivors: plan talents, skills and equipment, save locally, share editable links and export PNGs without an account. |
