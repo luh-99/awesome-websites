@@ -28,6 +28,7 @@ I have listed useful, or fun websites that make the internet a hell of a lot eas
 | [ShareShortcut](https://shareshortcuts.com/) | Alternative to Chrunos. Shortcuts made by the community |
 | [The Useless Web](https://theuselessweb.com/) | Fun website if you are bored |
 | [Flash Museum](https://flashmuseum.org/) | Play all of your childhood flash games |
+| [My Nine Games](https://myninegames.com/) | Pick the nine games that shaped you, arrange your 3×3 grid and download it in about a minute. Free, no account needed. |
 | [RetroFlix](https://retroflix.org) | Watch Classic movies, Old Cartoons, and Forgotten TV! |
 | [12ft.io](https://12ft.io) & [Archive.is](https://Archive.is) | Website to bypass most paywalls in news sites, etc. |
 | [AlternativeTo.net](https://AlternativeTo.net) | Find a free, open-source, or paid alternative to an existing program easily |
