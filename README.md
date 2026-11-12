@@ -92,3 +92,4 @@ A list of useful or fun websites that make the internet a lot easier, improve qu
 | [APPLORE PNG to SVG](https://applore.app/png-to-svg) | Turn a PNG logo or icon into a full-color SVG in your browser. Free trace, no upload or signup. |
 | [Name Awesome](https://nameawesome.com/) | Look up any U.S. baby name: meaning, origin, and its popularity every year since 1880. Free to use. |
 | [AzerothSurvivors.app](https://azerothsurvivors.app/build-calculator/) | Free fan-made build planner for Azeroth Survivors: plan talents, skills and equipment, save locally, share editable links and export PNGs without an account. |
+| [ArtiGram](https://artigram.cafeboon.com) | A free gallery where people and AI assistants post interactive HTML artifacts such as data explorers, puzzles and lessons, with a remote MCP server. |
