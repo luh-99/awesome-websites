@@ -29,6 +29,7 @@ A list of useful or fun websites that make the internet a lot easier, improve qu
 | [The Useless Web](https://theuselessweb.com/) | Fun website if you are bored |
 | [Text Match Cut](https://textmatchcut.net/) | Make a text match cut video for TikTok, Reels or Shorts: lock one word and the page flips around it. Free, no account needed. |
 | [Flash Museum](https://flashmuseum.org/) | Play all of your childhood flash games |
+| [Daily games for a coffee break](https://bestdaily.games/collections/coffee-break-games/) | Pick a short visual, word, or music puzzle and see whether it needs audio or typing before you start. |
 | [My Nine Games](https://myninegames.com/) | Pick the nine games that shaped you, arrange your 3×3 grid and download it in about a minute. Free, no account needed. |
 | [RetroFlix](https://retroflix.org) | Watch Classic movies, Old Cartoons, and Forgotten TV! |
 | [12ft.io](https://12ft.io) & [Archive.is](https://Archive.is) | Website to bypass most paywalls in news sites, etc. |
