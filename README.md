@@ -31,6 +31,7 @@ A list of useful or fun websites that make the internet a lot easier, improve qu
 | [Flash Museum](https://flashmuseum.org/) | Play all of your childhood flash games |
 | [Puffer Party](https://pufferparty.org/) | Play a browser category game: name something that fits the prompt and pass the puffer to the next player. Includes private rooms and solo practice. |
 | [Daily games for a coffee break](https://bestdaily.games/collections/coffee-break-games/) | Pick a short visual, word, or music puzzle and see whether it needs audio or typing before you start. |
+| [Magnitudle illustrated guide](https://dailygames.today/games/magnitudle/) | Learn how to estimate the answer to an unusual daily question and use the scale to compare your guess. The guide links to the original game. |
 | [My Nine Games](https://myninegames.com/) | Pick the nine games that shaped you, arrange your 3×3 grid and download it in about a minute. Free, no account needed. |
 | [RetroFlix](https://retroflix.org) | Watch Classic movies, Old Cartoons, and Forgotten TV! |
 | [12ft.io](https://12ft.io) & [Archive.is](https://Archive.is) | Website to bypass most paywalls in news sites, etc. |
