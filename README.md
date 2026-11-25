@@ -24,6 +24,7 @@ A list of useful or fun websites that make the internet a lot easier, improve qu
 | [VideoBolt](https://videobolt.net/simple-video-tools/add-audio) | Add audio to any video |
 | [QuietTake](https://noiseremover.site/) | Free browser-local speech-noise cleanup with original/cleaned playback and WAV export; no signup or audio upload, up to 50 MB and five minutes per file. |
 | [Cloud Convert](https://cloudconvert.com/) | Convert any picture to any other filetype |
+| [Kite](https://kite.new/) | Design UI, banners and social posts with your team and AI agents (Claude, ChatGPT, Cursor) in the same file; copy any frame as HTML, React or Tailwind. Free plan. |
 | [Chrunos](https://chrunos.com/category/shortcuts/) | Useful iOS shortcuts |
 | [ShareShortcut](https://shareshortcuts.com/) | Alternative to Chrunos. Shortcuts made by the community |
 | [The Useless Web](https://theuselessweb.com/) | Fun website if you are bored |
