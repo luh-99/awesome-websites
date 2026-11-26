@@ -43,6 +43,7 @@ A list of useful or fun websites that make the internet a lot easier, improve qu
 | [Wolfram Alpha](https://www.wolframalpha.com/) | Computational knowledge engine for various queries. |
 | [Unsplash](https://www.wolframalpha.com/) | High-quality, free-to-use photos. |
 | [Duolingo](https://www.duolingo.com/) | Learn languages for free through interactive lessons. |
+| [Nihongo to Japan](https://www.nihongotojapan.com/en/materials) | Free 191-lesson Japanese course from kana to JLPT N1, with a comic, vocabulary, grammar and a quiz in every lesson. |
 | [Ninite](https://ninite.com/) | Batch install and update essential software. |
 | [Radio Garden](http://radio.garden/) | Explore live radio stations from around the world. |
 | [Zamzar](https://www.zamzar.com/) | Convert files between different formats. |
